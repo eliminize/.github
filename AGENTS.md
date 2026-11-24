@@ -9,7 +9,7 @@ This repository is public and holds the organization profile that GitHub renders
   setting's voice, and links to the game and the site. Do not grow it back into a copy of the site.
 - **Change it when the headline changes**, not whenever a number moves.
 - **Write for players**, never developers: no issue references, plans, risks, playtests or roadmap.
-- **Images** live in `profile/assets/`, referenced relatively, so the profile renders on GitHub.
+- **Images** live in `profile/assets/`, referenced by absolute `raw.githubusercontent.com` URL (the GitHub mobile app does not resolve relative paths in the org profile).
 - **`main` is the published branch.** Commit on it directly unless the user asks for a branch or a pull
   request; push only when the user asks.
 
