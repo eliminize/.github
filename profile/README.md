@@ -10,6 +10,6 @@ Free to play. Heavily in development.
 
 <img src="assets/fight.png" alt="Three teams fighting around a wall while the feed announces a boo" width="320">
 
-### [Play now](https://fiack.no/eliminize/) · [Read the briefing](https://eliminize.github.io/)
+### [Play now](https://fiack.no/eliminize/) · [Read the briefing](https://eliminize.github.io/) · [Send feedback](https://tally.so/r/bZWMv6)
 
 </div>
