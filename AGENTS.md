@@ -4,14 +4,14 @@ This repository is public and holds the organization profile that GitHub renders
 <https://github.com/eliminize>: [`profile/README.md`](profile/README.md) and its images in
 `profile/assets/`.
 
-- **Enough to decide, not the reference.** The profile is read by someone who has not played: say what the
-  game is, in the setting's voice, with the facts that make them want a match.
-- **Change it when the headline changes**, not whenever a number moves. A profile that tracks every balance
-  change stops reading as a pitch.
+- **A signpost, not the pitch.** The player-facing site, <https://eliminize.github.io/> (checkout
+  `eliminize.github.io`), carries the briefing. The profile says in a few lines what the game is, in the
+  setting's voice, and links to the game and the site. Do not grow it back into a copy of the site.
+- **Change it when the headline changes**, not whenever a number moves.
 - **Write for players**, never developers: no issue references, plans, risks, playtests or roadmap.
 - **Images** live in `profile/assets/`, referenced relatively, so the profile renders on GitHub.
 - **`main` is the published branch.** Commit on it directly unless the user asks for a branch or a pull
   request; push only when the user asks.
 
-The site (`eliminize.github.io`) will take over the player-facing page. Until it has content, this profile
-is the front page, and it stays short.
+The organization may later host a public issue board or discussions for player feedback; that is not
+decided, so the profile links to neither.
