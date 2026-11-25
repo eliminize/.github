@@ -6,7 +6,7 @@ only the source of the organization avatar.
 
 - **A signpost, not the pitch.** The player-facing site, <https://eliminize.github.io/> (checkout
   `eliminize.github.io`), carries the briefing and every picture. The profile is plain text: one line on
-  what the game is and links to the game, the site and the feedback form. The org page is also where
+  what the game is and a single link, to the site (which links to the game and the feedback form). The org page is also where
   issues get triaged, so it must stay quiet: no screenshots, no banner, no big centered heading. Do not
   grow it back into a copy of the site.
 - **Change it when the headline changes**, not whenever a number moves.
